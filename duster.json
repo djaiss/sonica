@@ -1,0 +1,5 @@
+{
+    "exclude": [
+        "tests/Unit/ViewModels/User/TeamViewModelTest.php"
+    ]
+}
